@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on JavaScript
 - 🌱 I’m currently learning web development
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with how to teach college students
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I'm not a real person 😺
