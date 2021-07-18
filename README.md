@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm IDMX Student From Raritan Valley Community College
+
 <!--
 **idmxstudent/idmxstudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on JavaScript
+- 🌱 I’m currently learning web development
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with how to teach college students
+- 😄 Pronouns: they/them
+- ⚡ Fun fact: I'm not a real person 😺
